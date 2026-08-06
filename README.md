@@ -18,4 +18,4 @@ This is my personal portfolio website built using **HTML, CSS, and JavaScript**.
 This project is created to showcase my skills and projects while applying for web development internships.
 
 ## 🔗 Live Demo
-https://peppy-gecko-3c8741.netlify.app
+https://myportfoliopradip.netlify.app/
