@@ -45,6 +45,3 @@ Frontend Developer & React Enthusiast
 ## 🌐 Live Project
 
 https://myportfoliopradip.netlify.app/
-
-
->>>>>>> 268db2ab56228ba7f2aa4693ddf7dd5a22619255
